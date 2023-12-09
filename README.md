@@ -39,7 +39,7 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
 ```sh
-   git clone [your-repository-link]
+   git clone https://github.com/ricky-bruner/ts-location-app-udemy.git
 ```
 
 2. Install NPM packages:
